@@ -37,7 +37,6 @@ Packages for building with [Effect](https://effect.website). Docs at [effectkit.
 
 ## 🔐 Privacy & Cryptography
 
-- **[Ome](https://ome.network)**: Private k-of-n multisig on Aztec. k members to spend, t to read, and no one holds the viewing key.
 - **[zkPersona](https://github.com/zkpersona)**: Noir libraries for [JWT](https://github.com/zkpersona/noir-jwt), [HMAC](https://github.com/zkpersona/noir-hmac), [Ethereum event proofs](https://github.com/zkpersona/noir-ethereum), [social verification](https://github.com/zkpersona/noir-social-verify), and [ring signatures](https://github.com/zkpersona/noir-ring-signatures).
 - **[zk-dnssec](https://github.com/envoy1084/zk-dnssec)**: Zero-knowledge DNSSEC validation.
 - **[fhe-dksap](https://github.com/envoy1084/fhe-dksap)**: FHE-based stealth addresses in Rust.
@@ -48,11 +47,14 @@ Packages for building with [Effect](https://effect.website). Docs at [effectkit.
 	Building
 </h2>
 
+- **[Ome](https://ome.network)**: Private k-of-n multisig on Aztec. k members to spend, t to read, and no one holds the viewing key.
 - **[Rill](https://github.com/rill-vcs/rill)**: Version control with structural merges. Early.
 - **[Preface](https://github.com/usepreface/preface)**: Self-hosted knowledge infrastructure. Early.
 
 ## 🧰 Tools
 
-- **[envshare](https://github.com/envoy1084/envshare)**: Hand off a `.env` once. No account, nothing stored on a server.
+- **[envshare](https://github.com/envoy1084/envshare)**: Hand off a `.env` once. No account, nothing stored on a server. `brew install envoy1084/tap/envshare`
+- **[klarity](https://github.com/envoy1084/klarity)**: Opinionated shared config for TypeScript projects. TSConfig, Oxc, Vitest, Turborepo, and commit rules in one package.
+- **[create-fhevm-examples](https://github.com/envoy1084/create-fhevm-examples)**: Scaffold a privacy-preserving dApp on Zama's FHEVM in one command.
 
 <sub>Son of Anton has a spending limit now.</sub>
