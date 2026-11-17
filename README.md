@@ -56,5 +56,6 @@ Packages for building with [Effect](https://effect.website). Docs at [effectkit.
 - **[envshare](https://github.com/envoy1084/envshare)**: Hand off a `.env` once. No account, nothing stored on a server. `brew install envoy1084/tap/envshare`
 - **[klarity](https://github.com/envoy1084/klarity)**: Opinionated shared config for TypeScript projects. TSConfig, Oxc, Vitest, Turborepo, and commit rules in one package.
 - **[create-fhevm-examples](https://github.com/envoy1084/create-fhevm-examples)**: Scaffold a privacy-preserving dApp on Zama's FHEVM in one command.
+- **[dotfiles](https://github.com/envoy1084/dotfiles)**: My macOS and agent setup. Homebrew for packages, chezmoi for config.
 
 <sub>Son of Anton has a spending limit now.</sub>
