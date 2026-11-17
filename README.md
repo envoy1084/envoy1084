@@ -3,11 +3,17 @@
 	Vedant Chainani
 </h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" style="border-radius: 24px;" />
+<img align="right" width="320" alt="Dinesh: I just realized I haven't left the house in six days." src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 Developer at [Namespace](https://namespace.ninja). I build ENS infrastructure, wallets for AI agents, and privacy tooling. TypeScript and [Effect](https://effect.website) by default, Rust when it has to be fast.
 
+- 🛠️ Shipping [Namera](https://namera.ai), wallets for AI agents
+- 🧪 Side quests: Effect packages, Noir circuits, a version control system
+- 💬 Ask me about ENS, Effect, or zero-knowledge proofs
+
 [Website](https://envoy1084.xyz) • [Blog](https://envoy1084.xyz/blog) • [X](https://x.com/envoy1084) • [LinkedIn](https://www.linkedin.com/in/vedant-chainani/) • [Email](mailto:vedant@envoy1084.xyz)
+
+<br clear="right" />
 
 <h2>
 	<img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif" width="20" />
