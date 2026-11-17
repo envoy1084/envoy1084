@@ -11,4 +11,4 @@ jobs:
               uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
               with:
                   token: ${{ secrets.METRICS_TOKEN }}
-                  template: "A profile README with <starCount> stars and <forkCount> forks 🌟"
+                  template: "<starCount> stars, <forkCount> forks. Weissman score pending."
